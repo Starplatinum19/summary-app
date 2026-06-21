@@ -1,5 +1,8 @@
 # Automatic Research‑Paper Summarizer
 
+<img width="1500" height="640" alt="image" src="https://github.com/user-attachments/assets/a2a895f7-6423-4c29-bf07-e85522b4d79e" />
+
+
 ## How it works (via Sumy)
 We run one of Sumy’s extractive algorithms:
 
